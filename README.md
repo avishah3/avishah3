@@ -9,4 +9,4 @@
 - **Email:** [avishah704@gmail.com](mailto:avishah704@gmail.com)
 - **Resume:** [Avi Shah Resume](https://avi-shah.com/assets/Avi_Shah_Resume.pdf)
 
-_Note: The majority of my repositories are private, for school and work, so contributions may appear lower._
+_Note: The majority of my repositories are private (for school and work), so contributions may appear lower._
