@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Avi Shah
 
-<!--
-**avishah3/avishah3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Computer Graphics student at UF | Founder of [Effxcts LLC](https://www.effxcts.com) | AI & ML
 
-Here are some ideas to get you started:
+## 🌟 Current
+- Researching at the [Indie Lab](https://www.cise.ufl.edu/~eragan/indie.html).
+- Publishing a manuscript on ML for kidney imaging.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- **Website:** [avi-shah.com](https://www.avi-shah.com)
+- **LinkedIn:** [linkedin.com/in/-avishah/](https://www.linkedin.com/in/-avishah/)
+- **Email:** [avishah704@gmail.com](mailto:avishah704@gmail.com)
+
+## ⚡ More About Me
+Check out my [resume](https://avi-shah.com/assets/Avi_Shah_Resume.pdf) for details on my experience and skills.
+
+_Please note that the majority of my repositories are private, so contributions are lower than actual._
