@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Avi Shah
-- Third-year Computer Graphics student at UF
+- Third-year Computer Graphics student at the University of Florida
 - Founder of [Effxcts LLC](https://www.effxcts.com)
 - AI & ML
 
